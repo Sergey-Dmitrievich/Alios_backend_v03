@@ -1,0 +1,1 @@
+source "D:\SergeyProjectsNew\Global Projects 2.0\Project Alios\Alios_backend_v03\venv\Scripts\activate"
